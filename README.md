@@ -1,27 +1,25 @@
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Name.png)
+### Hi, I'm Here 👋
 
+> This is nfangxu, a php programmer from Beijing China. My blog is <a href="https://nfangxu.com">https://nfangxu.com</a>
 
- ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+<img align='right' src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966">
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I like group programming, if you are too, I am very happy that we can lift the friendship <del>🚢big ship</del> boat together and set sail.</em>
 
-### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+I am currently studying swoole and k8s. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">   <a  href="https://www.instagram.com/sharannyo_/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://medium.com/@yobasu2015"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+### Learning progress
 
-### Here are some ideas to help you get started:
+- PHP ![PHP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=51&leftFill=%2300FFFF "PHP learning progress")
 
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
-- 🌱 I’m currently learning <strong>React JS</strong>
-- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
-- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
-- ⚡ Fun fact: I can talk 24/7 about football.
+- Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%2300FFFF "Front-end learning progress")
 
-### Tools I work upon : 🛠
+- Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "Linux learning progress")
 
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+- Kubernetes / Docker ![kubernetes learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%2300FFFF "kubernetes learning progress")
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+### Github Stats
 
-⭐️ From [sharannyobasu](https://github.com/sharannyobasu)
+![nfangxu's github stats](https://github-readme-stats.vercel.app/api?username=nfangxu&show_icons=true&line_height=30)
+
+⭐️ From [nfangxu](https://github.com/nfangxu)
