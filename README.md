@@ -33,15 +33,7 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-<p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=Jedi0x&show_icons=true alt=Jedi0x /> 
-</p>
 
-<p align="center">
-<a href=https://twitter.com/jedisays_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="sachuverma_" height="40" width="40" /></a>
-<a href=https://linkedin.com/in/junaid-raza-a3b4a11b5 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
-<a href=https://instagram.com/ijunaidraza target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
-</p>
 
 <br>
 <p align="center">
@@ -57,6 +49,11 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 - Always Willing to help (Altruistic). ✋
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
-
+<br><br><br><br><br>
+<p align="center">
+<a href=https://twitter.com/jedisays_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="sachuverma_" height="40" width="40" /></a>
+<a href=https://linkedin.com/in/junaid-raza-a3b4a11b5 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
+<a href=https://instagram.com/ijunaidraza target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
+</p>
 
 
