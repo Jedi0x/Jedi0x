@@ -1,54 +1,71 @@
-<h2>Hello Traveler...🚶</h2>
+[![Header](https://raw.githubusercontent.com/Pranjaljain0/Pranjaljain0/master/Asset%201.png "Header")](https://pranjaljain.tech/)
 
+### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="430" width="400" align="right"></img>
+## [![Twitter Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/pranjaljain0/) [![Gmail Badge](https://img.shields.io/badge/-hello@pranjaljain.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:hello@pranjaljain.tech)
 
+- 🔭 I’m currently working on something amazing
+- 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
+- ⚡ Fun fact: I am always working
 
-## It's Prathamesh Giri here 👋
-I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Developer. I love experimenting with new technologies and building small projects.
+## 🔧 Technologies & Tools
 
-- ☀️ Learning and Developing Machine Learning based projects in Python.
-- ✍️ Writing tech blog posts over Internet.
-- ➿ Contributing Open Source Projects.
+### Frontend
 
-## Things that I execute in free time ⚡ -  
-  - In mean time, I create visual and artistic UI/UX on Adobe Xd.🌱
-  - While Coding, Listening Music and developing useful code.⭐️
-  - Just loved to Explore new Tech Stacks.💻
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
-  - Always Willing to help (**Altruistic**). ✋ 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+### Frameworks
 
-## My GitHub Stats(Only Public Contributions 😑) -
-  
-  ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
-</br>
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-## My Portfolio and Work 👀 -
-### 1.[Personal Web](http://prathameshgiri.me/) 👦 </br>
-### 2.[Portfolio](https://sites.google.com/view/prathamesh-giri/home) ✨
-</br>
+### Mobile
 
-## Social Hangouts 💬 -
+![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter)
 
-<a href="https://twitter.com/_Autodidactic">
-  <img align="left" alt="Prathamesh Giri| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+# Languages
+
+![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
+
+### Design
+
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
+
+### Motion Graphics
+
+![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### Deploy
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
+
+### Editors
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Pranjaljain0/Pranjaljain0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://www.linkedin.com/in/autodidactic/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/Pranjaljain0/Pranjaljain0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjaljain0&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
-<a href="https://prathamtalks.blogspot.com/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
-</a>
-<a href="https://medium.com/@Oautodidactic">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://stackoverflow.com/users/story/13827345">
-  <img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
-</a>
-</br>
-</br>
 
-### ⭐️ From [Pratham31](https://github.com/Pratham31)
- 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pranjaljain0.pranjaljain0)
 
+⭐️ From [pranjaljain0](https://github.com/pranjaljain0)
