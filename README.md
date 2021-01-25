@@ -1,45 +1,41 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<p align="center">
+    <br>
+    <samp>
+        Hello there! I'm <b><a href="https://iiwowks.github.io/">iiwowks</a></b>.
+        <br> I’m currently learning <b>vue.js & java</b>
+        <br>
+    </samp>
+    <img align="middle"
+        src="https://github-readme-stats.vercel.app/api?username=iiwowks&show_icons=true&theme=synthwave&hide_title=true" />
+</p>
 
-<a href="https://twitter.com/iampavangandhi">
-  <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<details align="center">
+    <summary> <b> <samp> Most used languanges </samp></b></summary>
+    <samp>
+        <img align="middle"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiwowks&hide_title=true&layout=compact" />
+    </samp>
+</details>
+
+<details align="center">
+    <summary> <b> <samp> Current project </samp></b></summary>
+
+<a style="text-decoration: none" align="left" href="https://github.com/iiwowks/iiwowks.github.io">
+        <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=iiwowks&repo=iiwowks.github.io&show_owner=true" />
+    </a>
+
+<a align="left" href="https://github.com/iiwowks/vue-demo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiwowks&repo=vue-demo&show_owner=true" />
 </a>
-<a href="https://linkedin.com/in/iampavangandhi">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/iampavangandhi">
-  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/iampavangandhi">
-  <img align="left" alt="Pavan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+</details>
 
-<br />
+<div align="center">
+    <b> <samp> Contact me </samp></b>
+    <br>
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/zhengjunan/)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:s1029871348@gmail.com)&nbsp; &nbsp; [![leetcode](https://img.shields.io/badge/-Leetcode-FFA119?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode-cn.com/u/iiwowks/)
 
-I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+</div>
 
-### More about me...
-
-- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://iampavangandhi.github.io/)
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
-- 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
-
-### Show some ❤️ by starring some of the repositories!
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
-
-⭐️ From [iampavangandhi](https://github.com/iampavangandhi)
+⭐️ From [iiwowks](https://github.com/iiwowks)
