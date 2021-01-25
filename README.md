@@ -1,41 +1,35 @@
-<p align="center">
-    <br>
-    <samp>
-        Hello there! I'm <b><a href="https://iiwowks.github.io/">iiwowks</a></b>.
-        <br> I’m currently learning <b>vue.js & java</b>
-        <br>
-    </samp>
-    <img align="middle"
-        src="https://github-readme-stats.vercel.app/api?username=iiwowks&show_icons=true&theme=synthwave&hide_title=true" />
-</p>
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
-<details align="center">
-    <summary> <b> <samp> Most used languanges </samp></b></summary>
-    <samp>
-        <img align="middle"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiwowks&hide_title=true&layout=compact" />
-    </samp>
-</details>
+Hi there, thanks for stopping by, this is **Charles Zhang**.
 
-<details align="center">
-    <summary> <b> <samp> Current project </samp></b></summary>
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-<a style="text-decoration: none" align="left" href="https://github.com/iiwowks/iiwowks.github.io">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=iiwowks&repo=iiwowks.github.io&show_owner=true" />
-    </a>
+```javascript
+const charles = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
+    }
+};
+```
 
-<a align="left" href="https://github.com/iiwowks/vue-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiwowks&repo=vue-demo&show_owner=true" />
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/iCharlesZ">
+  <img src="https://img.shields.io/github/followers/iCharlesZ">
 </a>
-</details>
+<a href="https://github.com/iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+</a>
 
-<div align="center">
-    <b> <samp> Contact me </samp></b>
-    <br>
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
-[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/zhengjunan/)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:s1029871348@gmail.com)&nbsp; &nbsp; [![leetcode](https://img.shields.io/badge/-Leetcode-FFA119?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode-cn.com/u/iiwowks/)
+---
 
-</div>
-
-⭐️ From [iiwowks](https://github.com/iiwowks)
+⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
