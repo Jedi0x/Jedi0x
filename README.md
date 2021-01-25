@@ -1,48 +1,38 @@
-# Hey, I'm Jonathan 👋
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
+<h1 align="center">Hi 👋, I'm Joe Tan</h1>
+<h3 align="center">I build applications and fix bugs. I learn photography in my free time.</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
+<p align="center">
+<a href="https://dev.to/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joetancy" height="40" width="40" /></a>
+<a href="https://twitter.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joetancy" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joetancy" height="40" width="40" /></a>
+<a href="https://fb.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joetancy" height="40" width="40" /></a>
+<a href="https://instagram.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joetancy" height="40" width="40" /></a>
+</p>
 
-Nice to meet you! My name is Jonathan. I'm currently studying and working as a [Dev Degree](https://devdegree.ca/) intern @Shopify. I previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer. Nowadays, I am working on Shopify's Experimentation Platform as a data developer.
+- 🌱 I’m currently learning **Amazon Web Services**
 
-## :game_die: Join my community Connect Four game!
-**NOTE: There is no way to update this file dynamically. The game below is a snapshot of a past game. To see the game live in action, check out [my profile](https://github.com/JonathanGin52)**
+- 📝 I irregularly write articles on [https://dev.to/joetancy](https://dev.to/joetancy)
 
-![](https://img.shields.io/badge/Moves%20played-84-blue)
-![](https://img.shields.io/badge/Completed%20games-6-brightgreen)
-![](https://img.shields.io/badge/Total%20players-28-orange)
+## My Dev.to Activity
+<!-- BLOG-POST-LIST:START -->
+- [AWS Cognito with React reCaptcha v2](https://dev.to/joetancy/aws-cognito-with-react-recaptcha-v2-3bn2)
+- [A brief introduction to microservices](https://dev.to/joetancy/a-brief-introduction-to-microservices-1d5n)
+- [PHP-FPM with Apache2](https://dev.to/joetancy/php-fpm-with-apache2-2mk0)
+<!-- BLOG-POST-LIST:END -->
 
-Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
+## My StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+- [Answer by Joe Tan for get value from array of object](https://stackoverflow.com/questions/63155406/get-value-from-array-of-object/63155483#63155483)
+- [Answer by Joe Tan for I want to put data into a new file using shell](https://stackoverflow.com/questions/63154805/i-want-to-put-data-into-a-new-file-using-shell/63154878#63154878)
+- [Answer by Joe Tan for Timestamp YYYY-MM-DDThh:mmTZD python](https://stackoverflow.com/questions/63154080/timestamp-yyyy-mm-ddthhmmtzd-python/63154256#63154256)
+- [Answer by Joe Tan for Selenium split webelement text and use to click](https://stackoverflow.com/questions/63153999/selenium-split-webelement-text-and-use-to-click/63154083#63154083)
+- [Answer by Joe Tan for Passing command from python file to shell script (Linux)](https://stackoverflow.com/questions/63153688/passing-command-from-python-file-to-shell-script-linux/63153770#63153770)
+<!-- STACKOVERFLOW:END -->
 
-It is the **red** team's turn to play.
-|[1](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[2](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[3](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[4](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[5](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[6](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[7](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C7&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|
-| - | - | - | - | - | - | - |
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/></p>
 
-Tired of waiting? [Request a move](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) from Connect4Bot :robot: 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joetancy" alt="joetancy" /> </p>
 
-Interested in how everything works? [Click here](https://github.com/JonathanGin52/JonathanGin52/tree/master/connect4) to read up on what's happening behind the scenes.
-
-**:alarm_clock: Most recent moves**
-| Team | Move | Made by |
-| ---- | ---- | ------- |
-| Red | 3 | Connect4Bot on behalf of [@JessicaLim8](https://github.com/JessicaLim8) |
-| Blue | 5 | [@fralonra](https://github.com/fralonra) |
-| Red | 3 | [@JessicaLim8](https://github.com/JessicaLim8) |
-
-**:trophy: Leaderboard: Most game winning moves :100:**
-| Player | Wins |
-| ------ | -----|
-| [@JonathanGin52](https://github.com/JonathanGin52) | 4 |
-| [@will-r-wang](https://github.com/will-r-wang) | 1 |
-| [@JessicaLim8](https://github.com/JessicaLim8) | 1 |
-
-
-
-⭐️ From [@JonathanGin52](https://github.com/JonathanGin52)
-
-Inspired by [timburgan](https://github.com/timburgan)
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
+⭐️ From [joetancy](https://github.com/joetancy)
