@@ -1,130 +1,93 @@
-### Hello World, I'm Shreya :purple_heart:
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+## Hi, I'm Karan 👨‍💻
 
------
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
+#### B.Tech. student at Vishwakarma Institute of Technology, Pune.
+![](https://komarev.com/ghpvc/?username=shettykaran21&color=79b8ff)
 
-### My skills :woman_technologist:
-- **Competitive Coding**
+<br />
+
+<img src="https://raw.githubusercontent.com/shettykaran21/shettykaran21/master/vector.jpg" alt="karan-vector" height="300px" />
+
+
+### 🌍 Let's Connect!
+
 <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-</td>
-</tr>
-</tbody>
+   <tr>
+      <td>
+         <a href="https://linkedin.com/shettykaran21">
+            <img align="left" alt="shettykaran21 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+         </a>
+      </td>
+      <td>
+         <a href="https://twitter.com/shettykaran21">
+            <img align="left" alt="shettykaran21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+         </a>
+      </td>
+   </tr>
 </table>
 
-- **Web Development**
+<br />
+
+### 🔧 Languages and Tools:
+
 <table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
-
-</td>
-
-</tr>
-
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-<tr>
- 
- </tr>
-</tbody>
+   <tr>
+      <td>
+         <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+      </td>
+      <td>
+         <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+      </td>
+      <td>
+         <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+      </td>
+      <td>
+         <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+      </td>
+      <td>
+         <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+      </td>
+      <td>
+         <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+      </td>
+      <td>
+         <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+      </td>
+      <td>
+         <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+      </td>
+      <td>
+         <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />
+      </td>
+      <td>
+         <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
+      </td>
+      <td>
+         <h4>WSL2</h4>
+      </td>
+   </tr>
 </table>
 
-- **Data Science**
-  - Data Visualization
-  - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+<br />
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+---
 
-### I'm currently learning :open_book:
-- **Competitive Coding**
-    - Dynamic Programming
-    
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
-</td>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+### 📈 Github Stats
 
- - **Data Science**
-   - Machine Learning
-   - Artificial Intelligence
-    
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-</p>
+<div>
+  <img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,issues"/>
+</div>
 
-<br> <br>
- <a href="https://twitter.com/shreyaaaaaaaaa_">
-  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shreyachatterjee05/">
-  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Shreya549">
-  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/the_strange_concoction/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/shreya.chatterjee.31105674">
-  <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/shreyachatterje2">
-  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<br><br>
+<br />
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
+[linkedin]: https://linkedin.com/in/shettykaran21
+[twitter]: https://twitter.com/shettykaran21
 
-⭐️ From [Shreya549](https://github.com/Shreya549)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+⭐️From [shettykaran21](https://github.com/shettykaran21)
