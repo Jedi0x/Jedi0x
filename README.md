@@ -1,53 +1,77 @@
-# Hello! :wave: <br>This is Elissavet Triantafyllopoulou.    
-IT Professional / Multi-disciplinary Web Developer    / All Things Web / Lifelong Learner / Avid Doodler / Dreamer
+# 👋🏻 Hey,
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 
-* [Personal Website](https://elissavet.me "Personal Website")
-* [LinkedIn Profile](https://gr.linkedin.com/in/elitriant "LinkedIn Profile")
-* [Twitter Profile](https://twitter.com/EliTriant "Twitter Profile")
-* [CodePen Profile](https://codepen.io/elisavetTriant/ "CodePen Profile")
-* [GitHub Profile](https://github.com/elisavetTriant/ "GitHub Profile")
+# I am Hrishikesh , HRISHIKESH-CODER . 
+## I am a programmer
 
-## Who I am
+- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I am proficient in Django, a web development framework. I also know a bit of machine learning and AI . <br>
+- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in Java . 
+- <img src="https://cdn.svgporn.com/logos/aws.svg" width=30 height=30>  I also like AWS, Amazon Web Services<br>
+- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br>
 
-### Hello there! My name is Elissavet Triantafyllopoulou and I come from Greece.
+## My Tech Stack
 
-> I've been in love with the Internet since 1999 and worked as a web developer and designer since 2003.
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+	      <span><strong>Python</strong></span><br><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+      </td>
+      <td width="25%" align="center">
+	      <span><strong>AWS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Java</strong></span><br><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Django</strong></span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
+      </td>
+     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>CSS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Html 5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Vs Code</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
 
-I am an End-to-End Web Developer and Designer, coding both back-end and front-end, specializing in web design and open-source development as well as digital promotion and website maintenance.
+  </tbody>
+</table>
 
-I am an avid doodler, a dreamer and an INFP among a gazillion other things.
+![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=hrishikesh-coder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br>
 
-## Services
+  <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
+    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:hrishipotter123@gmail.com">
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  
+<br>
 
-### What I Can Do For You
+![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
 
-#### **Your website, with Responsive Web Design**
+<br><br><br><br>
 
-Looks great on any screen size!
+# THAT'S ME !
 
-#### **Add content to your website yourself, with a CMS**
-
-Wordpress or ProcessWire, your choice!
-
-#### **Promotion of you Business, online**
-
-Get the word out there!
-
-#### **Custom Solutions, I've got your back**
-
-Custom database, custom CMS, or your own design, handcrafted with :heart:
-
-## The process
-
->Helping businesses, webmasters, and individuals establish a successful Web Presence from 2003 to date, having worked on a variety of projects ranging from small websites to medium scaled web applications.
-
-I am experienced on all phases of the product cycle: idea, concept and  design, analysis and development as well as launch and promotion of the final product. Hands on experience in Information Architecture and Database Design, Web Development and Design, popular Open Source CMS Theming and Templating, User Support, Communications Assistance and Digital Marketing.
-
-## Welcome to _your_ next website!
-
-[Contact me now!](https://elissavet.me/#contact)
-
-## Just before you go...
-[Connect with me on LinkedIn](https://gr.linkedin.com/in/elitriant) -- [See my experiments on Codepen](https://codepen.io/elisavetTriant/)
-
-`⭐️ From [elisavetTriant](https://github.com/elisavetTriant)`
+⭐️ From [Hrishikesh-coder](https://github.com/Hrishikesh-coder)
