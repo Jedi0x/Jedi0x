@@ -1,9 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Muhammad Junaid</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/junaid-raza-a3b4a11b5/">
-    <img src="https://img.shields.io/badge/linkedin-junaid-raza-a3b4a11b5-blue">
-  </a>
-  
   <a href="https://www.instagram.com/ijunaidraza/">
     <img src="https://img.shields.io/badge/instagram-ijunaidraza-red">
   </a>
