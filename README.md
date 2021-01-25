@@ -1,25 +1,34 @@
-### Hi, I'm Here 👋
+<div align="center">
+  <h3>Coming Soon🤘🏻🔥</h3>
+  <p align="center">
+    <a target="_blank" href="https://medium.com/@omidnikrah">Medium</a> •
+    <a target="_blank" href="https://stackoverflow.com/users/6558042/omid-nikrah">Stack Overflow</a> •
+    <a target="_blank" href="https://www.linkedin.com/in/omidnikrah/">Linkedin</a> •
+    <a target="_blank" href="https://twitter.com/omidnikrah">Twitter</a>
+  </p>
+  <br />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=omidnikrah&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=6558042" />
+  <br />
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
+</div>
 
-> This is nfangxu, a php programmer from Beijing China. My blog is <a href="https://nfangxu.com">https://nfangxu.com</a>
+## My Latest Medium Articles
 
-<img align='right' src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966">
+<a href="https://medium.com/@omidnikrah">
+  <img src="https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2" />
+</a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I like group programming, if you are too, I am very happy that we can lift the friendship <del>🚢big ship</del> boat together and set sail.</em>
+### Tools
 
-I am currently studying swoole and k8s. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+[GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
+<br />
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium)
 
-### Learning progress
-
-- PHP ![PHP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=51&leftFill=%2300FFFF "PHP learning progress")
-
-- Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%2300FFFF "Front-end learning progress")
-
-- Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "Linux learning progress")
-
-- Kubernetes / Docker ![kubernetes learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%2300FFFF "kubernetes learning progress")
-
-### Github Stats
-
-![nfangxu's github stats](https://github-readme-stats.vercel.app/api?username=nfangxu&show_icons=true&line_height=30)
-
-⭐️ From [nfangxu](https://github.com/nfangxu)
+⭐️ From [omidnikrah](https://github.com/omidnikrah)
