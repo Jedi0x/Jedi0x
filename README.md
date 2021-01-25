@@ -1,38 +1,29 @@
-### Welcome to LøvelyBuggies's Hut 👋
+<img align='right'  src="https://source.unsplash.com/random/500x100">
 
-<a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
-  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
-</a>
-<a href="https://www.linkedin.com/in/%E7%A1%95-%E5%88%98-073728144/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
-<a href="ninomyemail@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
-<a href="https://leetcode.com/lovelybuggies/">
-  <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
-</a>
-<a href="https://www.kaggle.com/ninolau">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
 
-<br />
-<br />
+### Hi there I'm Houshuai :lemon:
 
-Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+[![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/qq_15807167)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:houshuai0816@gmail.com)
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+🚀Welcome to the rain planet🌎
 
-**Current Status Quo**
+![houshuai github stats](https://source.unsplash.com/random/800x500)
 
-- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
-- 🌱 I’m currently learning TypeScripts and Python.
-- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
-- 💼 I’m pursuing a Ph.D. degree or R.A. position.
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via ninomyemail@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
+📊 **This week I spent my time on**
 
-⭐️ From [LovelyBuggies](https://github.com/lovelybuggies)
+<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+
+<!--START_SECTION:waka-->
+```text
+Kotlin      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
+Other       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
+C++         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+YAML        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Markdown    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+```
+<!--END_SECTION:waka-->
+
+
+⭐️ From [LikeRainDay](https://github.com/LikeRainDay)
