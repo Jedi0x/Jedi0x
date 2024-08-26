@@ -113,12 +113,6 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jedi0x&show_icons=true&locale=en&layout=compact" alt="jedi0x" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jedi0x&show_icons=true&locale=en" alt="jedi0x" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jedi0x&" alt="jedi0x" /></p>
-
 
 ---
 ⭐️ From [Junaid](https://github.com/Jedi0x)
