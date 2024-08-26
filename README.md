@@ -27,7 +27,7 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img src="https://github.com/laravel/art/blob/master/laravel-logo.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
   <img width="12" />
@@ -38,6 +38,7 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   many more...
+  <img width="12" />
 </div>
 
 
@@ -76,7 +77,9 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
     many more...
+    <img width="12" />
 </div>
 
 - Learning
