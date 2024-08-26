@@ -114,5 +114,7 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
 </div>
 
 
+[![Junaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jedi0x&theme=github-compact)](https://github.com/jedi0x/github-readme-activity-graph)
+
 ---
 ⭐️ From [Junaid](https://github.com/Jedi0x)
