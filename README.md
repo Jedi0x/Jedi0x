@@ -4,6 +4,18 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
 
 - 😄 Pronouns: He/him
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jedi0x&label=Profile%20views&color=0e75b6&style=flat" alt="jedi0x" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jedi0x" alt="jedi0x" /></a> </p>
+
+- 📫 How to reach me **ijunaidraza@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/junaid-raza-a3b4a11b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid-raza-a3b4a11b5" height="30" width="40" /></a>
+<a href="https://instagram.com/ijunaidraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ijunaidraza" height="30" width="40" /></a>
+</p>
 
 ### Programming Languages 🌐
 
@@ -37,6 +49,10 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
+  <img width="12" />
   many more...
   <img width="12" />
 </div>
@@ -46,9 +62,11 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
 - Learning
 
 <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnestjs%2Fnest%2Fblob%2Fmaster%2FReadme.md&psig=AOvVaw2o_dbkEAz08JpaHbAOyqUY&ust=1724747861155000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCZ5dWgkogDFQAAAAAdAAAAABAE" height="40" alt="nestjs logo"  />
+  <img src="https://nestjs.com/logo-small-gradient.76616405.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+   <img src="https://nestjs.com/logo-small-gradient.76616405.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="Aws logo"  />
   <img width="12" />
 </div>
 
@@ -78,6 +96,8 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" height="40" alt="Chart js logo"  />
+  <img width="12" />
     many more...
     <img width="12" />
 </div>
@@ -93,6 +113,12 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jedi0x&show_icons=true&locale=en&layout=compact" alt="jedi0x" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jedi0x&show_icons=true&locale=en" alt="jedi0x" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jedi0x&" alt="jedi0x" /></p>
 
 
 ---
