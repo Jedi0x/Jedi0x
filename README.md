@@ -64,9 +64,8 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
 <div align="left">
   <img src="https://nestjs.com/logo-small-gradient.76616405.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-   <img src="https://nestjs.com/logo-small-gradient.76616405.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="Aws logo"  />
+  <img width="12" />
   <img width="12" />
 </div>
 
