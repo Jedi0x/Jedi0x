@@ -46,7 +46,7 @@ I am Muhammad Junaid Raza, a FullStack developer with over 8 years of experience
 - Learning
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnestjs%2Fnest%2Fblob%2Fmaster%2FReadme.md&psig=AOvVaw2o_dbkEAz08JpaHbAOyqUY&ust=1724747861155000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCZ5dWgkogDFQAAAAAdAAAAABAE" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
